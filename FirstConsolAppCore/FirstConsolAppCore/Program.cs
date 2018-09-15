@@ -9,7 +9,7 @@ namespace FirstConsolAppCore
             Console.WriteLine("Hello World!");
         }
 
-        private int Addition(int a, int b)
+        private int Addition(int aa, int bb)
         {
             return a + b;
         }
