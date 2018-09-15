@@ -11,7 +11,7 @@ namespace FirstConsolAppCore
 
         private int Addition(int aa, int bb)
         {
-            return a + b;
+            return aa + bb;
         }
 
         private int Subtraction(int a, int b)
