@@ -18,5 +18,10 @@ namespace FirstConsolAppCore
         {
             return a - b;
         }
+
+        private int Multiplication(int a, int b)
+        {
+            return a + b;
+        }
     }
 }
